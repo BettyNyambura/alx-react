@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bettynyambura.github.io/alx-react/task_4/dashboard",
+  "homepage": "https://BettyNyambura.github.io/alx-react/task_4/dashboard",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "gh-pages": "^6.3.0",
