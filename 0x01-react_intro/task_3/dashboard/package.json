@@ -2,19 +2,16 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bettynyambura.github.io/alx-react/0x01-react_intro/task_4/dashboard",
+  "homepage": "https://BettyNyambura.github.io/dashboard",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
-    "gh-pages": "^6.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
-    "enzyme": "^3.11.0",
-    "enzyme-to-json": "^3.6.2"
+    "gh-pages": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,11 +37,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-  },
-  "jest": {
-    "snapshotSerializers": [
-      "enzyme-to-json/serializer"
     ]
   }
 }
